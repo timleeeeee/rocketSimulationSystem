@@ -1,0 +1,12 @@
+# Ignore compiled object files
+*.o
+
+# Ignore the compiled executable
+simulation
+
+# Ignore log files
+*.log
+
+# Ignore temporary files created by editors
+*~
+*.swp
